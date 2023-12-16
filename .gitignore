@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/*
+*.py[cod]
+*$py.class
+.env
+.vscode/*
+/src/__pycache__/*
+/src/common/__pycache__/*
+/src/utils/.DS_Store
+.DS_Store
+.pytest_cache/*
+/etl/tests/results/*
+/src/common/utils/__pycache__/*
+/src/gcp/__pycache__/*
